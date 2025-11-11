@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #b30000;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+header .logo {
+    height: 50px;
+    margin-right: 15px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.year-buttons button {
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #b30000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.styled-table th, .styled-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.export-btn {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #b30000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+    margin-top: 20px;
+}
