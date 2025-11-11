@@ -1,3 +1,4 @@
+
 # Dashboard de Impostos – Transportadora Falcão Ltda
 
 Este projeto exibe um **dashboard interativo** para acompanhamento dos impostos por UF, mês e ano, com gráficos dinâmicos e opção de exportar relatório em PDF.
